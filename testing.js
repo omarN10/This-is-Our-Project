@@ -1,3 +1,2 @@
-var x = 10;
-var max = 20;
-//read the binary search
+//testing the commit on sourcetreee
+//adding new line
